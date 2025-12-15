@@ -25,6 +25,8 @@
   flex-direction: column;
   gap: 1.1rem;
 }
+
+/* Styles for collection images */
 .collection--item_img {
   object-fit: cover;
   width: 100%;
