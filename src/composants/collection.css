@@ -41,7 +41,7 @@
   overflow: hidden;
 }
 
-.collection--item_container img {
+.collection--img_container img {
   position: absolute;
   top: 0;
   left: 0;
@@ -52,9 +52,9 @@
 
 .collection--item_img_hover {
   opacity: 0;
-  transition: opacity 0.5s ease-in-out;
+  transition: opacity 0.3s ease-in-out;
 }
 
-.collection--item_container:hover .collection--item_img_hover {
+.collection--img_container:hover .collection--item_img_hover {
   opacity: 1;
 }
