@@ -1,2 +1,6 @@
 import "./style.css";
-import viteLogo from "/vite.svg";
+import "./utilitaire.css";
+import "./composants/shipping.css";
+import "./composants/header.css";
+import "./composants/accueil.css";
+import "./composants/collection.css";
