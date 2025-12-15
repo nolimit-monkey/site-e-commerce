@@ -27,7 +27,8 @@
 }
 
 /* Styles for collection images */
-.collection--item_img {
+.collection--item_img,
+.collection--item_img_hover {
   object-fit: cover;
   width: 100%;
   display: block;
